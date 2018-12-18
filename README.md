@@ -1,5 +1,6 @@
 # FXAPI
 为非中国地区的企业提供基于API 的换汇接口
+
 .货币对支持和买卖方向说明
 外币/CNY 的卖出操作， 即卖出外币，买入CNY 其中外币为AUD, CAD, JPY, USD,SGD
 外币对之间的交易： AUD/USD, USD/CAD, USD/SGD, USD/JPY 全部是买入美元，卖出外币
